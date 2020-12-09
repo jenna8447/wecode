@@ -1,0 +1,27 @@
+body{
+    background: #D5AB9C;
+}
+h1{
+    text-align: center;
+    font-size: 3em;
+    color: seashell;
+}
+p{
+    text-align: center;
+    font-size:2em;
+    font-family: 'Do Hyeon', sans-serif;
+    color: seashell;
+}
+#hello {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%
+
+}
+.images {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
